@@ -7,7 +7,7 @@ Whether you're developing, testing, or simply playing, this cartridge offers a r
 ![Pokemon-Mini-Flashcard-v1.1enter image description here](https://shop.giltesa.com/wp-content/uploads/2025/06/Pokemon-Mini-Flashcard-v1.1_1.jpg)
 
 
-## FEATURES
+## Features
 
 *   Designed for the Pokémon Mini console.
 *   Powered by the RP2040 dual-core microcontroller.
@@ -18,7 +18,7 @@ Whether you're developing, testing, or simply playing, this cartridge offers a r
 *   Ideal for homebrew development, testing, and game use.
 
 
-## ATTRIBUTIONS
+## Attributions
 
 *   This project was designed entirely from scratch, but it was inspired by the [PM2040 project by zwenergy](https://github.com/zwenergy/PM2040), who created an adapter for soldering a [Waveshare RP2040 Zero](https://www.waveshare.com/rp2040-zero.htm), along with software tools for flashing the microcontroller. It intentionally uses the same pinout to ensure compatibility with his software. Many thanks to [zwenergy](https://github.com/zwenergy) for his excellent work! His code was used as a base and adapted for this cartridge.
 *   Menu font by [Stephen Denne](https://github.com/datacute/Tiny4kOLED/blob/master/src/font6x8.h).
