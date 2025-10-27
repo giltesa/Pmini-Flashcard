@@ -14,7 +14,7 @@ Whether you're developing, testing, or simply playing, this cartridge offers a r
 *   16 MB onboard flash memory for storing games: _More than enough to store multiple game backups, thanks to the small size of official titles and homebrew._
 *   USB-C interface for easy programming and firmware updates.
 *   Compact and low-profile design optimized for limited space.
-*   Status and power indicator LEDs.
+*   Programable status LED and USB-C power LED.
 *   Ideal for homebrew development, testing, and game use.
 
 
