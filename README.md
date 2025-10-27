@@ -4,7 +4,7 @@
 
 Whether you're developing, testing, or simply playing, this cartridge offers a reliable and space-efficient solution for getting the most out of your Pokémon Mini.
 
-![Pokemon-Mini-Flashcard-v1.1enter image description here](https://shop.giltesa.com/wp-content/uploads/2025/06/Pokemon-Mini-Flashcard-v1.1_1.jpg)
+![Pokemon-Mini-Flashcard-v1.1](https://shop.giltesa.com/wp-content/uploads/2025/06/Pokemon-Mini-Flashcard-v1.1_1.jpg)
 
 
 ## Features
