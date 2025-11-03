@@ -21,8 +21,9 @@ Whether you're developing, testing, or simply playing, this cartridge offers a r
 ## Attributions
 
 *   This project was designed entirely from scratch, but it was inspired by the [PM2040 project by zwenergy](https://github.com/zwenergy/PM2040), who created an adapter for soldering a [Waveshare RP2040 Zero](https://www.waveshare.com/rp2040-zero.htm), along with software tools for flashing the microcontroller. It intentionally uses the same pinout to ensure compatibility with his software. Many thanks to [zwenergy](https://github.com/zwenergy) for his excellent work! His code was used as a base and adapted for this cartridge.
-*   Menu font by [Stephen Denne](https://github.com/datacute/Tiny4kOLED/blob/master/src/font6x8.h).
 *   Menu and ROM Patcher improvements assisted by [GPT](https://chatgpt.com/overview).
+*   Game patching codes by [zoranc](https://www.pokemon-mini.net/forum/viewtopic.php?t=4278).
+*   Menu font by [Stephen Denne](https://github.com/datacute/Tiny4kOLED/blob/master/src/font6x8.h).
 *   Circuit logo image by [Fidel Castro](https://www.iconfinder.com/icons/7511700/game_mini_pokemon_icon).
 *   Font generated using [FontMeme](https://fontmeme.com/pokemon-font/).
 *   Pikachu surfing image by [dragon](https://wallpapers.com/wallpapers/small-cute-pikachu-surfing-54j5db4zmo9lvz9z.html).
