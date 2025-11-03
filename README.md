@@ -11,7 +11,7 @@ Whether you're developing, testing, or simply playing, this cartridge offers a r
 
 *   Designed for the Pokémon Mini console.
 *   Powered by the RP2040 dual-core microcontroller.
-*   16 MB onboard flash memory for storing games: _More than enough to store multiple game backups, thanks to the small size of official titles and homebrew._
+*   16 MB onboard flash memory for storing games: _More than enough to store multiple game backups, thanks to the small size of official titles and homebrew._
 *   USB-C interface for easy programming and firmware updates.
 *   Compact and low-profile design optimized for limited space.
 *   Programable status LED and USB-C power LED.
