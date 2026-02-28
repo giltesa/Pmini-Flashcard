@@ -1,0 +1,2 @@
+![PMINI](https://raw.githubusercontent.com/giltesa/Pmini-Flashcard/master/2.%20Renders%2C%203D%20models/Cartridge%20shell/Pmini1.png)
+![PMINI](https://raw.githubusercontent.com/giltesa/Pmini-Flashcard/master/2.%20Renders%2C%203D%20models/Cartridge%20shell/Pmini2.png)
